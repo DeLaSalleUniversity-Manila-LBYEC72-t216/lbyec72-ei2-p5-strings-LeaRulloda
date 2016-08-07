@@ -27,6 +27,7 @@ lbyec72-ei2-p5-strings-LeaRulloda created by GitHub Classroom
 ![](58.PNG)
 ![](59.PNG)
 ![](510.PNG)
+![](518.PNG)
 ![](517.PNG)
 ![](518.PNG)
 ![](519.PNG)
