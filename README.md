@@ -1,6 +1,7 @@
 # lbyec72-ei2-p5-strings-LeaRulloda
 lbyec72-ei2-p5-strings-LeaRulloda created by GitHub Classroom
 ###Lea Anne R. Rulloda - EI2
+#Activity 5
 ![](1.PNG)
 ![](2.PNG)
 ![](3.PNG)
@@ -15,3 +16,19 @@ lbyec72-ei2-p5-strings-LeaRulloda created by GitHub Classroom
 ![](12.PNG)
 ![](13.PNG)
 ![](14.PNG)
+#Activity 8
+![](51.PNG)
+![](52.PNG)
+![](53.PNG)
+![](54.PNG)
+![](55.PNG)
+![](56.PNG)
+![](57.PNG)
+![](58.PNG)
+![](59.PNG)
+![](510.PNG)
+![](511.PNG)
+![](512.PNG)
+![](513.PNG)
+![](514.PNG)
+![](515.PNG)
